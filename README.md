@@ -1,30 +1,35 @@
-# 🤖 Site: A Criação do Mascote Android
+# 🌐 Projeto: Redes Sociais
 
-📌 Projeto desenvolvido durante o **Curso de HTML5 e CSS3** do professor **Gustavo Guanabara** (CursoemVideo).  
-O site conta a história de como o Android ganhou seu icônico mascote e explora a evolução das versões do sistema.
+📌 Projeto desenvolvido durante o **Curso de HTML5 e CSS3** do professor **Gustavo Guanabara** (Curso em Vídeo).  
+O objetivo deste exercício é criar uma página de apresentação pessoal com links para minhas redes sociais, utilizando apenas **HTML** e **CSS**.
 
 ---
 
 ## 🛠️ Tecnologias
 
-- **HTML5** (semântica: `header`, `main`, `footer`, `article`, etc.)
-- **CSS3** (flexbox, responsividade, pseudo-classes)
-- **Design Responsivo** (adaptável a celulares e tablets)
+- **HTML5** → Estrutura semântica da página  
+- **CSS3** → Estilização, cores, fontes e layout  
+- **Design Responsivo** → Adaptável para celulares, tablets e desktops  
 
 ---
 
 ## ✨ Funcionalidades
 
-- Página estática com rolagem suave  
-- Seções organizadas semanticamente  
-- Imagens otimizadas e adaptáveis  
-- Menu de navegação intuitivo
+- Página estática com links clicáveis para redes sociais  
+- Ícones representando cada rede social  
+- Layout limpo e intuitivo  
+- Estrutura organizada com tags semânticas  
+- Responsividade para diferentes dispositivos  
 
 ---
 
 ## 🚀 Como acessar
 
-Você pode acessar o projeto publicado em:  
-[🔗 Clique aqui para ver o site](https://ruandias21.github.io/projeto-android/)
+Você pode visualizar o projeto publicado em:  
+[🔗 Clique aqui para ver o site](https://ruandias21.github.io/projeto-redes-sociais/)  
+
+---
+
+
 
 
